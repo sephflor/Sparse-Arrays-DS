@@ -1,1 +1,1 @@
-# Sparse-Arrays-DS
+# Sparse-Arrays-DS.This code counts how many times each query string appears in a given list of strings. It uses a dictionary to store string frequencies, then outputs the count for each query in order.
